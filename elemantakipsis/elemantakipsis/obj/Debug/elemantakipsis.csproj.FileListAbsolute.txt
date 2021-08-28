@@ -1,0 +1,14 @@
+C:\Users\yusuf\source\repos\elemantakipsis\elemantakipsis\bin\Debug\elemantakipsis.exe.config
+C:\Users\yusuf\source\repos\elemantakipsis\elemantakipsis\bin\Debug\elemantakipsis.exe
+C:\Users\yusuf\source\repos\elemantakipsis\elemantakipsis\bin\Debug\elemantakipsis.pdb
+C:\Users\yusuf\source\repos\elemantakipsis\elemantakipsis\obj\Debug\elemantakipsis.csprojAssemblyReference.cache
+C:\Users\yusuf\source\repos\elemantakipsis\elemantakipsis\obj\Debug\elemantakipsis.Form1.resources
+C:\Users\yusuf\source\repos\elemantakipsis\elemantakipsis\obj\Debug\elemantakipsis.Properties.Resources.resources
+C:\Users\yusuf\source\repos\elemantakipsis\elemantakipsis\obj\Debug\elemantakipsis.csproj.GenerateResource.cache
+C:\Users\yusuf\source\repos\elemantakipsis\elemantakipsis\obj\Debug\elemantakipsis.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\source\repos\elemantakipsis\elemantakipsis\obj\Debug\elemantakipsis.exe
+C:\Users\yusuf\source\repos\elemantakipsis\elemantakipsis\obj\Debug\elemantakipsis.pdb
+C:\Users\yusuf\source\repos\elemantakipsis\elemantakipsis\obj\Debug\elemantakipsis.views.ElemanEkle.resources
+C:\Users\yusuf\source\repos\elemantakipsis\elemantakipsis\obj\Debug\elemantakipsis.views.ElemanListele.resources
+C:\Users\yusuf\source\repos\elemantakipsis\elemantakipsis\obj\Debug\elemantakipsis.views.ElemanPerformans.resources
+C:\Users\yusuf\source\repos\elemantakipsis\elemantakipsis\obj\Debug\elemantakipsis.views.ElemanYetkinlik.resources
